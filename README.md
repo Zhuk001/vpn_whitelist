@@ -40,10 +40,10 @@ sing-box
 ## 📱 Скриншоты
 
 <div align="center">
-    <img src="main.png" width="200" alt="Главный экран">
-    <img src="guide.png" width="200" alt="Руководство">
-    <img src="diagnostics.png" width="200" alt="Диагностика">
-    <img src="update.png" width="200" alt="Проверка обновлений">
+    <img src="main.jpg" width="200" alt="Главный экран">
+    <img src="guide.jpg" width="200" alt="Руководство">
+    <img src="diagnostics.jpg" width="200" alt="Диагностика">
+    <img src="update.jpg" width="200" alt="Проверка обновлений">
 </div>
 
 ## 🔥 Возможности

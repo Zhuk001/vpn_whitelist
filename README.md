@@ -1,5 +1,6 @@
-<h1 align="center">🛡️ byeWhiteList</h1>
-
+<h1 align="center">
+    <img src="logo.png" alt="byeWhiteList Logo" width="128" height="128">
+</p>
 <p align="center">
     <strong>Автоматический выбор лучшего VPN-сервера для обхода блокировок в России 🇷🇺</strong>
 </p>
